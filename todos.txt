@@ -1,2 +1,2 @@
-add a new task
-Testing new project
+Example Task..
+Example Task 2..
